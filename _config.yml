@@ -18,7 +18,7 @@ author:
 #  facebook_username: joshgerdes
   github_username:  asc001010
   linkedin_username:  thomas-zühlke-889182165
- # meetup_name: Azure-Meetup-Rostock-MV
+  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
