@@ -2,23 +2,23 @@
 #g2g2
 
 # Site settings
-title: 안승찬프로파일
+title: '안승찬 프로파일'
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
-baseurl: 'aaaaa'
+baseurl: ''
 profilepic: ''
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: '안승찬 프로파일'
+  email: asc001062@naver.com
+  
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  asc001010
+ # linkedin_username:  thomas-zühlke-889182165
+ # meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
