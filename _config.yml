@@ -5,8 +5,8 @@
 title: Thomas Zühlke
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
-baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+baseurl: 'aaaaa'
+profilepic: ''
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
